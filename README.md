@@ -1,5 +1,6 @@
 # RevList2020
-Implementazione del modello RevocationList2020 per la revoca di Verifiable Credentials in IOTA Ledger.                                                              Il modello è qui descritto: https://w3c-ccg.github.io/vc-status-rl-2020/#revocationlist2020credential
+Implementazione del modello RevocationList2020 per la revoca di Verifiable Credentials in IOTA Ledger.<br>
+Il modello è qui descritto: https://w3c-ccg.github.io/vc-status-rl-2020/#revocationlist2020credential
 
 # Struttura progetto
 1) src/main.rs                                                                                                                                                     Nel main è realizzato un semplice esempio di uso della libreria, con un issuer che genera delle Verifiable Credentials revocabili, ognuna con apposito status.
